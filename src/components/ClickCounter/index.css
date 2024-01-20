@@ -1,0 +1,31 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+
+.bg-container {
+  background-color: #f1f5f8;
+  font-family: 'Roboto';
+  text-align: center;
+  padding: 10px;
+}
+
+.main-heading {
+  color: #2d3a35;
+}
+
+.count {
+  color: #c20a72;
+}
+
+.paragraph {
+  color: #2d3a35;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  padding: 5px;
+}
